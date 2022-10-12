@@ -53,7 +53,7 @@ and type ```node_modules``` and ```.env``` into the .gitignore file.
 - As a user I want to be able to search for coffee shops near me.
 - As a user I want to log into a user profile and save things like my favorite coffee shops and my favorite drinks.
 - As a user I want to be able to see the details of specific cafes (contact info, location, price, etc.).
-- As a user I want to be able to share my comments on cafes to be viewed by other users.
+- As a user I want to be able to create, edit and delete comments on specific cafes.
 
 ## API and Proof of Concept
 The concept is to use the Yelp API to find coffee shops and coffee shop data to be displayed to the user. Here is an example of the data for the Yelp API.
